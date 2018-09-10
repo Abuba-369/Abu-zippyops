@@ -1,0 +1,5 @@
+class myfirst program
+{
+public satic void main(String args[])
+System.Out.println("Hello People");
+}
