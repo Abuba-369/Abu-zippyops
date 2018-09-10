@@ -1,2 +1,0 @@
-# zippyops
-what to do
